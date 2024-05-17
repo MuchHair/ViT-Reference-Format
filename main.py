@@ -15,7 +15,10 @@ if __name__ == '__main__':
     parser = get_args_parser()
     args = parser.parse_args()
 
+
+
     split_dir = args.split_dir
+    split_dir = os.path.join(os.getcwd(), split_dir)
     thesis_in = os.listdir(f'{split_dir}') # read dir
     thesis_out = split_dir+'_out'
 
@@ -27,7 +30,7 @@ if __name__ == '__main__':
     elif args.format =='cvpr':
         from CVPR import transform_format
     elif args.format == 'nips':
-        from CVPR import transform_format
+        from NIPS import transform_format
     elif args.format=='ijcv':
         from IJCV import transform_format
     else:

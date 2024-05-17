@@ -1,0 +1,159 @@
+
+\bibitem{1}
+ Aaron F.  Bobick,  and  James W. Davis. The recognition of human movement using temporal templates. In {\it{IEEE Transactions on pattern analysis and machine intelligence}}, 2001.
+
+\bibitem{2}
+ and  Ivan Laptev. On space-time interest points. In {\it{International journal of computer vision}}, 2005.
+
+\bibitem{3}
+ Heng  Wang,  A  Klaser,  C  Schmid,  and  L Cheng-Lin. Action recognition by dense trajectories. Computer Vision and Pattern Recognition (CVPR). In {\it{2011 IEEE Conference on}}, 2011.
+
+\bibitem{4}
+ Heng  Wang,  and  Cordelia Schmid. Action recognition with improved trajectories. In {\it{ICCV}}, 2013.
+
+\bibitem{5}
+ Karen  Simonyan,  and  Andrew Zisserman. Two-stream convolutional networks for action recognition in videos. In {\it{NeurIPS}}, 2014.
+
+\bibitem{6}
+ Limin  Wang,  Yuanjun  Xiong,  Zhe  Wang,  and  Yu Qiao. Towards good practices for very deep two-stream convnets. In {\it{arXiv preprint arXiv:1507.02159}}, 2015.
+
+\bibitem{7}
+ Limin  Wang,  Yuanjun  Xiong,  Zhe  Wang,  Yu  Qiao,  Dahua  Lin,  Xiaoou  Tang,  and  Luc VanGool. Temporal segment networks: Towards good practices for deep action recognition. In {\it{ECCV}}, 2016.
+
+\bibitem{8}
+ Christoph  Feichtenhofer,  Axel  Pinz,  and  Andrew Zisserman. Convolutional two-stream network fusion for video action recognition. In {\it{CVPR}}, 2016.
+
+\bibitem{9}
+ Limin  Wang,  Yu  Qiao,  and  Xiaoou Tang. Action recognition with trajectory-pooled deep-convolutional descriptors. In {\it{CVPR}}, 2015.
+
+\bibitem{10}
+ Yuxin  Peng,  Yunzhen  Zhao,  and  Junchao Zhang. Two-stream collaborative learning with spatial-temporal attention for video classification. In {\it{TCSVT}}, 2018.
+
+\bibitem{11}
+ Lin  Sun,  Kui  Jia,  Kevin  Chen,  Dit-Yan  Yeung,  Bertram E  Shi,  and  Silvio Savarese. Lattice long short-term memory for human action recognition. In {\it{ICCV}}, 2017.
+
+\bibitem{12}
+ Joe  Yue-HeiNg,  Matthew  Hausknecht,  Sudheendra  Vijayanarasimhan,  Oriol  Vinyals,  Rajat  Monga,  and  George Toderici. Beyond short snippets: Deep networks for video classification. In {\it{CVPR}}, 2015.
+
+\bibitem{13}
+ Jeffrey  Donahue,  Lisa  AnneHendricks,  Sergio  Guadarrama,  Marcus  Rohrbach,  Subhashini  Venugopalan,  Kate  Saenko,  and  Trevor Darrell. Long-term recurrent convolutional networks for visual recognition and description. In {\it{CVPR}}, 2015.
+
+\bibitem{14}
+ Amin  Ullah,  Jamil  Ahmad,  Khan  Muhammad,  Muhammad  Sajjad,  and  Sung Wook Baik. Action recognition in video sequences using deep bi-directional LSTM with CNN features. In {\it{IEEE access}}, 2017.
+
+\bibitem{15}
+ Jun-Yan  He,  Xiao  Wu,  Zhi-Qi  Cheng,  Zhaoquan  Yuan,  and  Yu-Gang Jiang. DB-LSTM: Densely-connected Bi-directional LSTM for human action recognition. In {\it{Neurocomputing}}, 2021.
+
+\bibitem{16}
+ Kyunghyun  Cho, Learning phrase representations using RNN encoder-decoder for statistical machine translation. In {\it{arXiv preprint arXiv:1406.1078}}, 2014.
+
+\bibitem{17}
+ Sepp  Hochreiter,  and  Schmidhuber. Long short-term memory. In {\it{Neural computation}}, 1997.
+
+\bibitem{18}
+ Nicolas  Ballas,  Li  Yao,  Chris  Pal,  and  Aaron Courville. Delving deeper into convolutional networks for learning video representations. In {\it{arXiv preprint arXiv:1511.06432}}, 2015.
+
+\bibitem{19}
+ Debidatta  Dwibedi,  Pierre  Sermanet,  and  Jonathan Tompson. Temporal reasoning in videos using convolutional gated recurrent units. In {\it{CVPR}}, 2018.
+
+\bibitem{20}
+ Pil-Soo  Kim,  Dong-Gyu  Lee,  and  Seong-Whan Lee. Discriminative context learning with gated recurrent unit for group activity recognition. In {\it{Pattern Recognition}}, 2018.
+
+\bibitem{21}
+ Yemin  Shi,  Yonghong  Tian,  Yaowei  Wang,  Wei  Zeng,  and  Tiejun Huang. Learning long-term dependencies for action recognition with a biologically-inspired deep network. In {\it{ICCV}}, 2017.
+
+\bibitem{22}
+ Linchao  Zhu,  Du  Tran,  Laura  Sevilla-Lara,  Yi  Yang,  Matt  Feiszli,  and  Heng Wang. Faster recurrent networks for efficient video classification. In {\it{AAAI}}, 2020.
+
+\bibitem{23}
+ Yunbo  Wang,  Mingsheng  Long,  Jianmin  Wang,  and  Philip S Yu. Spatiotemporal pyramid network for video action recognition. In {\it{CVPR}}, 2017.
+
+\bibitem{24}
+ Rohit  Girdhar,  and  Deva Ramanan. Attentional pooling for action recognition. In {\it{NeurIPS}}, 2017.
+
+\bibitem{25}
+ Lili  Meng,  Bo  Zhao,  Bo  Chang,  Gao  Huang,  Wei  Sun,  Frederick  Tung,  and  Leonid Sigal. Interpretable spatio-temporal attention for video action recognition. In {\it{ICCV}}, 2019.
+
+\bibitem{neimark2021video}
+ Daniel  Neimark,  Omri  Bar,  Maya  Zohar,  and  Dotan Asselmann. Video transformer network. In {\it{ICCV}}, 2021.
+
+\bibitem{35}
+ Ashish  Vaswani,  Noam  Shazeer,  Niki  Parmar,  Jakob  Uszkoreit,  Llion  Jones,  Aidan N  Gomez, Attention is all you need. In {\it{NeurIPS}}, 2017.
+
+\bibitem{36}
+ Gedas  Bertasius,  Heng  Wang,  and  Lorenzo Torresani. Is space-time attention all you need for video understanding?. In {\it{ICML}}, 2021.
+
+\bibitem{37}
+ Alexey  Dosovitskiy,  Lucas  Beyer,  Alex Kolesnikov,  Dirk  Weissenborn,  Xiaohua  Zhai,  Thomas  Unterthiner,  Mostafa  Dehghani,  Matthias  Minderer,  Georg  Heigold,  Sylvain  Gelly, An image is worth 16x16 words: Transformers for image recognition at scale. In {\it{arXiv preprint arXiv:2010.11929}}, 2020.
+
+\bibitem{38}
+ Hildegard  Kuehne,  Hueihan  Jhuang,  and   Garrote. HMDB: a large video database for human motion recognition. In {\it{2011 International conference on computer vision}}, 2011.
+
+\bibitem{39}
+ Chun-Fu  Chen,  Rameswar  a,  and  Quanfu Fan. Regionvit: Regional-to-local attention for vision transformers. In {\it{arXiv preprint arXiv:2106.02689}}, 2021.
+
+\bibitem{40}
+ Jiewen  Yang,  Xingbo  Dong,  Liujun  Liu,  Chao  Zhang,  Jiajun  Shen,  and  Dahai Yu. Recurring the Transformer for Video Action Recognition. In {\it{CVPR}}, 2022.
+
+\bibitem{41}
+ Anurag  Arnab,  Mostafa  Dehghani,  Georg  Heigold,  Chen  Sun, Vivit: A video vision transformer. In {\it{ICCV}}, 2021.
+
+\bibitem{42}
+ Shen  Yan,  Xuehan  Xiong,  Anurag  Arnab,  Zhichao  Lu,  Mi  Zhang,  Chen  Sun,  and  Cordelia Schmid. Multiview transformers for video recognition. In {\it{CVPR}}, 2022.
+
+\bibitem{11}
+ Lin  Sun,  Kui  Jia,  Kevin  Chen,  Dit-Yan  Yeung,  Bertram E  Shi,  and  Silvio Savarese. Lattice long short-term memory for human action recognition. In {\it{ICCV}}, 2017.
+
+\bibitem{12}
+ Joe  Yue-HeiNg,  Matthew  Hausknecht,  Sudheendra  Vijayanarasimhan,  Oriol  Vinyals,  Rajat  Monga,  and  George Toderici. Beyond short snippets: Deep networks for video classification. In {\it{CVPR}}, 2015.
+
+\bibitem{13}
+ Jeffrey  Donahue,  Lisa  AnneHendricks,  Sergio  Guadarrama,  Marcus  Rohrbach,  Subhashini  Venugopalan,  Kate  Saenko,  and  Trevor Darrell. Long-term recurrent convolutional networks for visual recognition and description. In {\it{CVPR}}, 2015.
+
+\bibitem{14}
+ Amin  Ullah,  Jamil  Ahmad,  Khan  Muhammad,  Muhammad  Sajjad,  and  Sung Wook Baik. Action recognition in video sequences using deep bi-directional LSTM with CNN features. In {\it{IEEE access}}, 2017.
+
+\bibitem{15}
+ Jun-Yan  He,  Xiao  Wu,  Zhi-Qi  Cheng,  Zhaoquan  Yuan,  and  Yu-Gang Jiang. DB-LSTM: Densely-connected Bi-directional LSTM for human action recognition. In {\it{Neurocomputing}}, 2021.
+
+\bibitem{16}
+ Kyunghyun  Cho, Learning phrase representations using RNN encoder-decoder for statistical machine translation. In {\it{arXiv preprint arXiv:1406.1078}}, 2014.
+
+\bibitem{17}
+ Sepp  Hochreiter,  and  Schmidhuber. Long short-term memory. In {\it{Neural computation}}, 1997.
+
+\bibitem{18}
+ Nicolas  Ballas,  Li  Yao,  Chris  Pal,  and  Aaron Courville. Delving deeper into convolutional networks for learning video representations. In {\it{arXiv preprint arXiv:1511.06432}}, 2015.
+
+\bibitem{19}
+ Debidatta  Dwibedi,  Pierre  Sermanet,  and  Jonathan Tompson. Temporal reasoning in videos using convolutional gated recurrent units. In {\it{CVPR}}, 2018.
+
+\bibitem{20}
+ Pil-Soo  Kim,  Dong-Gyu  Lee,  and  Seong-Whan Lee. Discriminative context learning with gated recurrent unit for group activity recognition. In {\it{Pattern Recognition}}, 2018.
+
+\bibitem{21}
+ Yemin  Shi,  Yonghong  Tian,  Yaowei  Wang,  Wei  Zeng,  and  Tiejun Huang. Learning long-term dependencies for action recognition with a biologically-inspired deep network. In {\it{ICCV}}, 2017.
+
+\bibitem{22}
+ Linchao  Zhu,  Du  Tran,  Laura  Sevilla-Lara,  Yi  Yang,  Matt  Feiszli,  and  Heng Wang. Faster recurrent networks for efficient video classification. In {\it{AAAI}}, 2020.
+
+\bibitem{23}
+ Yunbo  Wang,  Mingsheng  Long,  Jianmin  Wang,  and  Philip S Yu. Spatiotemporal pyramid network for video action recognition. In {\it{CVPR}}, 2017.
+
+\bibitem{24}
+ Rohit  Girdhar,  and  Deva Ramanan. Attentional pooling for action recognition. In {\it{NeurIPS}}, 2017.
+
+\bibitem{25}
+ Lili  Meng,  Bo  Zhao,  Bo  Chang,  Gao  Huang,  Wei  Sun,  Frederick  Tung,  and  Leonid Sigal. Interpretable spatio-temporal attention for video action recognition. In {\it{ICCV}}, 2019.
+
+\bibitem{26}
+ Zhenyang  Li,  Kirill  Gavrilyuk,  Efstratios  Gavves,  Mihir  Jain,  and  Cees GM Snoek. Videolstm convolves, attends and flows for action recognition. In {\it{Computer Vision and Image Understanding}}, 2018.
+
+\bibitem{ciptadi2014movement}
+ Arridhana  Ciptadi,  Matthew S  Goodwin,  and  James M Rehg. Movement pattern histogram for action recognition and retrieval. In {\it{Computer Vision--ECCV 2014: 13th European Conference, Zurich, Switzerland, September 6-12, 2014, Proceedings, Part II 13}}, 2014.
+
+\bibitem{hu2007semantic}
+ Weiming  Hu,  Dan  Xie,  Zhouyu  Fu,  Wenrong  Zeng,  and  Steve Maybank. Semantic-based surveillance video retrieval. In {\it{IEEE Transactions on image processing}}, 2007.
+
+\bibitem{singh2010muhavi}
+ Sanchit  Singh,  Sergio A  Velastin,  and  Hossein Ragheb. Muhavi: A multicamera human action video dataset for the evaluation of action recognition methods. In {\it{2010 7th IEEE International Conference on Advanced Video and Signal Based Surveillance}}, 2010.

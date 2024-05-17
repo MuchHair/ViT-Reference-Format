@@ -24,12 +24,13 @@ input_bib = args.input_bib
 f_read = open(f'{input_bib}', 'r')
 line = f_read.readline()
 
-if not os.path.exists(split_dir):
-    os.mkdir(f'{split_dir}')
+split_path = os.path.join(os.getcwd(), split_dir)
+if not os.path.exists(split_path):
+    os.mkdir(f'{split_path}')
 
 
 def write_bib(file_name, content):
-    f_write = open(f"{split_dir}/{file_name}.txt", 'w+')
+    f_write = open(f"{split_path}/{file_name}.txt", 'w+')
     f_write.write(content)
     f_write.close()
 

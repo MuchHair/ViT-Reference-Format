@@ -14,14 +14,15 @@ parser = get_args_parser()
 args = parser.parse_args()
 
 bib_list = []
-thesis_out = os.listdir(f'{args.thesis_out}') # read dir
-f_write = open(f'{args.out_file}', 'w+')
+thesis_out = os.listdir(os.getcwd()+'/'+f'{args.thesis_out}') # read dir
+f_write = open(os.getcwd()+'/'+f'{args.out_file}', 'w+')
 index = 1
+
 
 for i in range(len(thesis_out)):
     file = f'{i+1}'.zfill(3) + '.txt'
-    print(f'{args.thesis_out}/{file}')
-    f_read = open(f'{args.thesis_out}/{file}', 'r')
+    print(os.getcwd()+'/'+f'{args.thesis_out}/{file}')
+    f_read = open(os.getcwd()+'/'+f'{args.thesis_out}/{file}', 'r')
 
     lines = f_read.readlines()
     data = ''
